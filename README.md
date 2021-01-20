@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a Bachelor student in Computer Science Engineering at Politecnico di Milano
+
+
 <!--
 **alessandrozito98/alessandrozito98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -11,7 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Formila 1 and Football!
 
 
-I'm a Bachelor student in Computer Science Engineering at Politecnico di Milano
+
 
 ## Programming Languages
 
