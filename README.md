@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on VHDL Dgitial Circuits Project
 - 🌱 I’m currently learning HTML, Css, Javascript
-- 💬 Ask me about Formila 1 and Football!
+- 💬 Ask me about Formula 1 and Football!
 
 
 
