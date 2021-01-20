@@ -22,7 +22,6 @@ I'm a Bachelor student in Computer Science Engineering at Politecnico di Milano
 [![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)](<https://en.wikipedia.org/wiki/C_(programming_language)>)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![![VHDL]("https://img.shields.io/badge/-VHDL-lightgrey?&style=for-the-badge&logo=v&logoColor=white)](https://en.wikipedia.org/wiki/VHDL)
 [![VHDL](https://img.shields.io/badge/-VHDL-lightgrey?style=for-the-badge&logo=v&logoColor=black)](https://en.wikipedia.org/wiki/VHDL)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown)
 
