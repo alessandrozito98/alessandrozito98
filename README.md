@@ -29,12 +29,12 @@ I'm a Bachelor student in Computer Science Engineering at Politecnico di Milano
 [![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1)](https://en.wikipedia.org/wiki/JavaScript)
 
 
-[![Alessandro's github stats](https://github-readme-stats.vercel.app/api?username=alessandrozito98&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Alessandro's github stats](https://github-readme-stats.vercel.app/api?username=alessandrozito98&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrozito98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alessandrozito98)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alessandrozito98)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 <!--START_SECTION:waka-->
