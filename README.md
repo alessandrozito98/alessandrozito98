@@ -39,6 +39,9 @@ I'm a Bachelor student in Computer Science Engineering at Politecnico di Milano
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C            1 hr 3 mins     ██████████████████████░░░   87.42 % 
+Markdown     5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+Git Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Python       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 ```
 <!--END_SECTION:waka-->
