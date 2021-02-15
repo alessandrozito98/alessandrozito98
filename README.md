@@ -22,6 +22,7 @@ I'm a Bachelor student in Computer Science Engineering at Politecnico di Milano
 [![VHDL](https://img.shields.io/badge/-VHDL-lightgrey?style=for-the-badge&logo=xilinx&logoColor=red)](https://en.wikipedia.org/wiki/VHDL)
 
 ## Text Formatting
+
 <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown)
 
