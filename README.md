@@ -21,9 +21,9 @@ I'm a Bachelor student in Computer Science Engineering at Politecnico di Milano
 [![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![VHDL](https://img.shields.io/badge/-VHDL-lightgrey?style=for-the-badge&logo=xilinx&logoColor=red)](https://en.wikipedia.org/wiki/VHDL)
 
-## Text Formatting
+## Markup Languages
 
-[![LaTeX](https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white)](https://en.wikipedia.org/wiki/Latex)
+[![LaTeX](https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white)](https://en.wikipedia.org/wiki/LaTeX)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown)
 
 ## Learning 
