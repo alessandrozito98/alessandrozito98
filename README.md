@@ -7,7 +7,7 @@ I'm a Bachelor student in Computer Science Engineering at Politecnico di Milano
 **alessandrozito98/alessandrozito98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on VHDL Dgitial Circuits Project
+- 🔭 I’m currently working on "Simulazioni di Sistemi Elettorali in Python" Project
 - 🌱 I’m currently learning HTML, Css, Javascript
 - 💬 Ask me about Formula 1 and Football!
 
