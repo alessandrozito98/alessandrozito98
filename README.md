@@ -8,7 +8,7 @@ I'm a Bachelor student in Computer Science Engineering at Politecnico di Milano
 -->
 
 - 🔭 I’m currently working on "Simulazioni di Sistemi Elettorali in Python" Project
-- 🌱 I’m currently learning HTML, Css, Javascript
+- 🌱 I’m currently learning HTML, CSS, Javascript
 - 💬 Ask me about Formula 1 and Football!
 
 
