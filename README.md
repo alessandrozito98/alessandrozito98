@@ -35,7 +35,8 @@ I'm a Bachelor student in Computer Science Engineering at Politecnico di Milano
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrozito98&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alessandrozito98)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alessandrozito98&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--START_SECTION:waka-->
