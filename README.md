@@ -39,6 +39,6 @@ I'm a Bachelor student in Computer Science Engineering at Politecnico di Milano
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Git Config   3 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
