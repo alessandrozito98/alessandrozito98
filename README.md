@@ -39,6 +39,7 @@ I'm a Bachelor student in Computer Science Engineering at Politecnico di Milano
 
 <!--START_SECTION:waka-->
 ```text
-Git Config   3 mins          █████████████████████████   100.00 % 
+Python       24 mins         █████████████████████░░░░   84.46 % 
+Git Config   3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 % 
 ```
 <!--END_SECTION:waka-->
