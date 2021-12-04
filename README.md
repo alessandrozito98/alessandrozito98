@@ -39,7 +39,6 @@ I'm a Bachelor student in Computer Science Engineering at Politecnico di Milano
 
 <!--START_SECTION:waka-->
 ```text
-Python   1 hr 32 mins    ████████████████████████▒   97.32 % 
-CSV      2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Python   40 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
