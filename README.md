@@ -32,13 +32,14 @@ I'm a Bachelor student in Computer Science Engineering at Politecnico di Milano
 
 ## My stats
 
+[![wakatime](https://wakatime.com/badge/user/6602f0ab-f5f4-418b-b2fb-1fa267f6c557.svg)](https://wakatime.com/@6602f0ab-f5f4-418b-b2fb-1fa267f6c557)
+
 [![Alessandro's github stats](https://github-readme-stats.vercel.app/api?username=alessandrozito98&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrozito98&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alessandrozito98&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
-[![wakatime](https://wakatime.com/badge/user/6602f0ab-f5f4-418b-b2fb-1fa267f6c557.svg)](https://wakatime.com/@6602f0ab-f5f4-418b-b2fb-1fa267f6c557)
 
 
 <!--START_SECTION:waka-->
