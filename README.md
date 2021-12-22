@@ -29,6 +29,7 @@ I'm a Bachelor student in Computer Science Engineering at Politecnico di Milano
 [![LaTeX](https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white)](https://en.wikipedia.org/wiki/LaTeX)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown)
 
+[![wakatime](https://wakatime.com/badge/user/6602f0ab-f5f4-418b-b2fb-1fa267f6c557/project/baca8549-181a-4933-9a06-59a32ab0609d.svg)](https://wakatime.com/badge/user/6602f0ab-f5f4-418b-b2fb-1fa267f6c557/project/baca8549-181a-4933-9a06-59a32ab0609d)
 
 [![Alessandro's github stats](https://github-readme-stats.vercel.app/api?username=alessandrozito98&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
