@@ -37,9 +37,13 @@ I'm a Bachelor student in Computer Science Engineering at Politecnico di Milano
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=alessandrozito98&count_private=true&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrozito98&langs_count=8&layout=compact" />
 </a>
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alessandrozito98&layout=compact&v=2)](https://github.com/anuraghazra/github-readme-stats) 
+
 
 <br><br><br><br><br><br>
 
@@ -47,7 +51,6 @@ I'm a Bachelor student in Computer Science Engineering at Politecnico di Milano
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrozito98&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alessandrozito98&layout=compact&v=2)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 <!--START_SECTION:waka-->
