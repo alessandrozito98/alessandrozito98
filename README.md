@@ -54,7 +54,7 @@ I'm a Bachelor student in Computer Science Engineering at Politecnico di Milano
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alessandrozito98&layout=compact&v=2)](https://github.com/anuraghazra/github-readme-stats) -->
 
-
+### My stats
 
 <!--START_SECTION:waka-->
 ```text
