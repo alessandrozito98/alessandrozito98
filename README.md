@@ -30,6 +30,8 @@ I'm a Bachelor student in Computer Science Engineering at Politecnico di Milano
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown)
 
 
+## My stats
+
 [![Alessandro's github stats](https://github-readme-stats.vercel.app/api?username=alessandrozito98&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrozito98&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
