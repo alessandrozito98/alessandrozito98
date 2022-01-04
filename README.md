@@ -47,9 +47,10 @@ I'm a Bachelor student in Computer Science Engineering at Politecnico di Milano
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     1 hr 28 mins    ███████████████████████░░   91.43 % 
-Python       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-Git Config   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Markdown     3 hrs 28 mins   ███████████████████████░░   91.55 % 
+Python       9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+YAML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 ```
 <!--END_SECTION:waka-->
