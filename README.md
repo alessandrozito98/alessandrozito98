@@ -2,6 +2,8 @@
 
 I'm a Bachelor student in Computer Science Engineering at Politecnico di Milano
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alessandrozito98&label=Profile%20views&color=129e00&style=plastic" alt="alessandrozito98" /> </p>
+
 
 <!--
 **alessandrozito98/alessandrozito98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
