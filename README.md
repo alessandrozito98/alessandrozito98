@@ -48,7 +48,9 @@ I'm a Bachelor student in Computer Science Engineering at Politecnico di Milano
 
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
