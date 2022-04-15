@@ -50,7 +50,7 @@ I'm a Bachelor student in Computer Science Engineering at Politecnico di Milano
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C++   51 mins         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩   100.00 %
 ```
 
 <!--END_SECTION:waka-->
