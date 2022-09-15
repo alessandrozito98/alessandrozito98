@@ -64,6 +64,48 @@ I'm a Bachelor student in Computer Science Engineering at Politecnico di Milano
  > 
 > 🔑 7 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.84% 
+🌆 Daytime    63 commits     █████░░░░░░░░░░░░░░░░░░░░   21.28% 
+🌃 Evening    99 commits     ████████░░░░░░░░░░░░░░░░░   33.45% 
+🌙 Night      96 commits     ████████░░░░░░░░░░░░░░░░░   32.43%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       56 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.92% 
+Tuesday      33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.15% 
+Wednesday    55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.58% 
+Thursday     56 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.92% 
+Friday       26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.78% 
+Saturday     17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.74% 
+Sunday       53 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.91%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -81,5 +123,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/alessandrozito98/alessandrozito98/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/09/2022 02:31:21 UTC
+ Last Updated on 15/09/2022 02:40:07 UTC
 <!--END_SECTION:waka-->
