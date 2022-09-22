@@ -93,16 +93,19 @@ Sunday       53 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   7 mins              ████████████████████░░░░░   82.76% 
+YAML                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.71% 
+Docker                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.53%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  9 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+yuri-bot                 9 mins              ████████████████████████░   95.82% 
+Unknown Project          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.18%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  9 mins              █████████████████████████   100.0%
 
 ```
 
@@ -123,5 +126,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/alessandrozito98/alessandrozito98/master/charts/bar_graph.png) 
 
 
- Last Updated on 21/09/2022 02:38:27 UTC
+ Last Updated on 22/09/2022 02:28:10 UTC
 <!--END_SECTION:waka-->
