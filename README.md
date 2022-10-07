@@ -50,7 +50,7 @@ I'm a Bachelor student in Computer Science Engineering at Politecnico di Milano
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
@@ -123,5 +123,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/alessandrozito98/alessandrozito98/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/10/2022 02:08:53 UTC
+ Last Updated on 07/10/2022 02:25:47 UTC
 <!--END_SECTION:waka-->
