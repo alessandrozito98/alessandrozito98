@@ -56,7 +56,7 @@ I'm a Bachelor student in Computer Science Engineering at Politecnico di Milano
 
 > 🏆 98 Contributions in the Year 2022
  > 
-> 📦 96.2 kB Used in GitHub's Storage 
+> 📦 96.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -128,5 +128,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/alessandrozito98/alessandrozito98/master/charts/bar_graph.png) 
 
 
- Last Updated on 20/10/2022 02:31:40 UTC
+ Last Updated on 21/10/2022 02:04:25 UTC
 <!--END_SECTION:waka-->
