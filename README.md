@@ -128,5 +128,5 @@ Jupyter Notebook         2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/alessandrozito98/alessandrozito98/master/charts/bar_graph.png) 
 
 
- Last Updated on 12/02/2023 01:03:26 UTC
+ Last Updated on 13/02/2023 01:00:31 UTC
 <!--END_SECTION:waka-->
