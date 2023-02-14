@@ -48,7 +48,7 @@ I'm a Bachelor student in Computer Science Engineering at Politecnico di Milano
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
@@ -56,7 +56,7 @@ I'm a Bachelor student in Computer Science Engineering at Politecnico di Milano
 
 > 🏆 13 Contributions in the Year 2023
  > 
-> 📦 157.4 kB Used in GitHub's Storage 
+> 📦 305.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -93,21 +93,20 @@ Sunday          31 commits       ███░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-C++                      2 hrs 39 mins       █████████████████████░░░░   85.29 % 
-Makefile                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+C++                      2 hrs 37 mins       █████████████████░░░░░░░░   67.80 % 
+Other                    29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Makefile                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+Git Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 51 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-FaStAle                  3 hrs 6 mins        █████████████████████████   100.00 % 
+FaStAle                  3 hrs 51 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 6 mins        █████████████████████████   99.87 % 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Linux                    3 hrs 51 mins       █████████████████████████   100.00 % 
 
 ```
 
@@ -128,5 +127,5 @@ Jupyter Notebook         2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/alessandrozito98/alessandrozito98/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/02/2023 01:00:31 UTC
+ Last Updated on 14/02/2023 01:01:16 UTC
 <!--END_SECTION:waka-->
