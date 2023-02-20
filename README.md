@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a MDc student in Telecommunication Engineering at Politecnico di Milano
+I'm a MSc student in Telecommunication Engineering at Politecnico di Milano
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alessandrozito98&label=Profile%20views&color=129e00&style=plastic" alt="alessandrozito98" /> </p>
 
