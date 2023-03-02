@@ -50,7 +50,7 @@ I'm a MSc student in Telecommunication Engineering at Politecnico di Milano
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2018%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 **🐱 My GitHub Data** 
 
@@ -91,26 +91,16 @@ Sunday                   33 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-C++                      2 hrs 8 mins        ████████████░░░░░░░░░░░░░   46.88 % 
-Makefile                 1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
-C                        26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-Bash                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 3 mins        ██████████████████████░░░   88.71 % 
-Visual Studio            31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-cg-assignments           2 hrs 17 mins       █████████████░░░░░░░░░░░░   50.08 % 
-FaStAle                  1 hr 46 mins        ██████████░░░░░░░░░░░░░░░   38.62 % 
-A15                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-A16                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-A13                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 hrs 46 mins       █████████████████████░░░░   82.61 % 
-Windows                  47 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -130,5 +120,5 @@ R                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alessandrozito98/alessandrozito98/master/assets/bar_graph.png)
 
 
- Last Updated on 27/02/2023 00:57:55 UTC
+ Last Updated on 02/03/2023 01:02:17 UTC
 <!--END_SECTION:waka-->
