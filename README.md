@@ -91,16 +91,17 @@ Sunday                   33 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    0 secs              ███████████████████████░░   90.01 % 
+Makefile                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+cg-assignments           0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -120,5 +121,5 @@ R                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alessandrozito98/alessandrozito98/master/assets/bar_graph.png)
 
 
- Last Updated on 08/03/2023 01:01:05 UTC
+ Last Updated on 09/03/2023 01:00:25 UTC
 <!--END_SECTION:waka-->
