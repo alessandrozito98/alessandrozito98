@@ -48,7 +48,7 @@ I'm a MSc student in Telecommunication Engineering at Politecnico di Milano
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -91,16 +91,23 @@ Sunday                   158 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-JavaScript               2 mins              █████████████████████████   100.00 % 
+C                        19 mins             █████████████████████░░░░   82.07 % 
+JavaScript               3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+Visual Studio            19 mins             █████████████████████░░░░   82.07 % 
+VS Code                  4 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
 
 🐱‍💻 Projects: 
-web-development-course   2 mins              █████████████████████████   100.00 % 
+Unknown Project          19 mins             █████████████████████░░░░   82.07 % 
+web-development-course   3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Criptografia-y-Computacio0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+Windows                  23 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -120,5 +127,5 @@ R                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alessandrozito98/alessandrozito98/master/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2023 00:53:30 UTC
+ Last Updated on 20/05/2023 00:50:37 UTC
 <!--END_SECTION:waka-->
