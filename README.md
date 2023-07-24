@@ -91,17 +91,16 @@ Sunday                   158 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-JavaScript               2 mins              ███████████████████████░░   91.59 % 
-HTML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-web-development-course   2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -121,5 +120,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alessandrozito98/alessandrozito98/master/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2023 01:00:52 UTC
+ Last Updated on 24/07/2023 00:58:11 UTC
 <!--END_SECTION:waka-->
