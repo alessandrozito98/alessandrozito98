@@ -120,5 +120,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alessandrozito98/alessandrozito98/master/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2023 00:43:00 UTC
+ Last Updated on 13/10/2023 00:46:39 UTC
 <!--END_SECTION:waka-->
