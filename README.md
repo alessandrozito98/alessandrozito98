@@ -48,7 +48,7 @@ I'm a MSc student in Telecommunication Engineering at Politecnico di Milano
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -91,16 +91,20 @@ Sunday                   158 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.00 % 
+Java                     42 mins             ████████████████████░░░░░   78.41 % 
+Python                   11 mins             █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  53 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DIPA_interpolation       0 secs              █████████████████████████   100.00 % 
+labexp23                 53 mins             █████████████████████████   99.90 % 
+DIPA_interpolation       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+Mac                      53 mins             █████████████████████████   99.90 % 
+Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
 **I Mostly Code in Python** 
@@ -120,5 +124,5 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alessandrozito98/alessandrozito98/master/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2023 00:45:43 UTC
+ Last Updated on 01/11/2023 00:49:21 UTC
 <!--END_SECTION:waka-->
