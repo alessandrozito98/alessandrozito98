@@ -91,18 +91,16 @@ Sunday                   172 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████░░░░   84.07 % 
-Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-Git Config               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-labexp23                 0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -122,5 +120,5 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alessandrozito98/alessandrozito98/master/assets/bar_graph.png)
 
 
- Last Updated on 07/01/2024 00:53:39 UTC
+ Last Updated on 08/01/2024 00:50:39 UTC
 <!--END_SECTION:waka-->
