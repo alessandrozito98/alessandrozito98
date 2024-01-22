@@ -124,5 +124,5 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alessandrozito98/alessandrozito98/master/assets/bar_graph.png)
 
 
- Last Updated on 21/01/2024 00:54:05 UTC
+ Last Updated on 22/01/2024 00:52:32 UTC
 <!--END_SECTION:waka-->
