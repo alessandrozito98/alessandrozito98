@@ -48,15 +48,13 @@ I'm a MSc student in Telecommunication Engineering at Politecnico di Milano
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 671.2 kB Used in GitHub's Storage 
- > 
-> 🏆 10 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,16 +89,16 @@ Sunday                   172 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+labexp23                 0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -120,5 +118,5 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alessandrozito98/alessandrozito98/master/assets/bar_graph.png)
 
 
- Last Updated on 23/01/2024 00:51:23 UTC
+ Last Updated on 24/01/2024 00:51:03 UTC
 <!--END_SECTION:waka-->
