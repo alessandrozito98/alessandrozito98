@@ -54,7 +54,7 @@ I'm a MSc student in Telecommunication Engineering at Politecnico di Milano
 
 **🐱 My GitHub Data** 
 
-> 📦 740.6 kB Used in GitHub's Storage 
+> 📦 740.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -118,5 +118,5 @@ MATLAB                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alessandrozito98/alessandrozito98/master/assets/bar_graph.png)
 
 
- Last Updated on 18/04/2024 00:46:02 UTC
+ Last Updated on 19/04/2024 00:47:12 UTC
 <!--END_SECTION:waka-->
