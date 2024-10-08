@@ -48,15 +48,13 @@ I'm a MSc student in Telecommunication Engineering at Politecnico di Milano
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 740.8 kB Used in GitHub's Storage 
- > 
-> 🏆 33 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,24 +89,28 @@ Sunday                   173 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               45 mins             ███████████░░░░░░░░░░░░░░   45.54 % 
+CSS                      41 mins             ██████████░░░░░░░░░░░░░░░   41.69 % 
+HTML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 40 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+notamnotfm-website       1 hr 40 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 40 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ███████░░░░░░░░░░░░░░░░░░   28.00 % 
-JavaScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   8 repos             ████████░░░░░░░░░░░░░░░░░   32.00 % 
 Jupyter Notebook         4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
 MATLAB                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
@@ -120,5 +122,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alessandrozito98/alessandrozito98/master/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2024 01:03:26 UTC
+ Last Updated on 08/10/2024 01:01:04 UTC
 <!--END_SECTION:waka-->
