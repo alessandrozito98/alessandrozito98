@@ -48,11 +48,15 @@ I'm a MSc student in Telecommunication Engineering at Politecnico di Milano
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-142%20hrs%2016%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 740.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 33 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,6 +64,48 @@ I'm a MSc student in Telecommunication Engineering at Politecnico di Milano
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+🌆 Daytime                494 commits         █████████░░░░░░░░░░░░░░░░   37.17 % 
+🌃 Evening                388 commits         ███████░░░░░░░░░░░░░░░░░░   29.19 % 
+🌙 Night                  292 commits         █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   198 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Tuesday                  188 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Wednesday                230 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Thursday                 339 commits         ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
+Friday                   119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Saturday                 82 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Sunday                   173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+Java                     41 mins             ██████████████████░░░░░░░   73.25 % 
+Markdown                 10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Python                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+
+🔥 Editors: 
+VS Code                  56 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Unknown Project          41 mins             ██████████████████░░░░░░░   73.25 % 
+poliradio-grafiche-bot   15 mins             ███████░░░░░░░░░░░░░░░░░░   26.75 % 
+
+💻 Operating System: 
+Mac                      56 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -77,5 +123,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alessandrozito98/alessandrozito98/master/assets/bar_graph.png)
 
 
- Last Updated on 10/11/2024 01:04:36 UTC
+ Last Updated on 11/11/2024 01:02:32 UTC
 <!--END_SECTION:waka-->
