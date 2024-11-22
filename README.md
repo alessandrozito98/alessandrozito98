@@ -48,7 +48,7 @@ I'm a MSc student in Telecommunication Engineering at Politecnico di Milano
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,7 +56,7 @@ I'm a MSc student in Telecommunication Engineering at Politecnico di Milano
 
 > 📦 740.8 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 33 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,18 +91,18 @@ Sunday                   173 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Python                   7 hrs 23 mins       ████████████████████████░   97.74 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Python                   8 hrs 11 mins       ████████████████████████░   97.96 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 33 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 21 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LAB 4 material           6 hrs               ████████████████████░░░░░   79.52 % 
-Unknown Project          1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+LAB 4 material           6 hrs 49 mins       ████████████████████░░░░░   81.50 % 
+Unknown Project          1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
 
 💻 Operating System: 
-Mac                      7 hrs 33 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -122,5 +122,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alessandrozito98/alessandrozito98/master/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2024 01:04:24 UTC
+ Last Updated on 22/11/2024 01:05:38 UTC
 <!--END_SECTION:waka-->
