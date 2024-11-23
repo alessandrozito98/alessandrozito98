@@ -48,15 +48,13 @@ I'm a MSc student in Telecommunication Engineering at Politecnico di Milano
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 740.8 kB Used in GitHub's Storage 
- > 
-> 🏆 33 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,18 +89,23 @@ Sunday                   173 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Python                   8 hrs 11 mins       ████████████████████████░   97.96 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Python                   8 hrs 16 mins       ████████████████████████░   94.46 % 
+TypeScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 21 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 45 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LAB 4 material           6 hrs 49 mins       ████████████████████░░░░░   81.50 % 
-Unknown Project          1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+LAB 4 material           6 hrs 52 mins       ████████████████████░░░░░   78.49 % 
+Unknown Project          1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+membri-frontend          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+servizi-itunes           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 💻 Operating System: 
-Mac                      8 hrs 21 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -122,5 +125,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alessandrozito98/alessandrozito98/master/assets/bar_graph.png)
 
 
- Last Updated on 22/11/2024 01:05:38 UTC
+ Last Updated on 23/11/2024 01:02:38 UTC
 <!--END_SECTION:waka-->
