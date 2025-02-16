@@ -48,8 +48,6 @@ I'm a MSc student in Telecommunication Engineering at Politecnico di Milano
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%205%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
@@ -64,45 +62,6 @@ I'm a MSc student in Telecommunication Engineering at Politecnico di Milano
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-🌆 Daytime                478 commits         █████████░░░░░░░░░░░░░░░░   37.00 % 
-🌃 Evening                378 commits         ███████░░░░░░░░░░░░░░░░░░   29.26 % 
-🌙 Night                  289 commits         ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   194 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Tuesday                  180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-Wednesday                222 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Thursday                 333 commits         ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
-Friday                   119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-Saturday                 71 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-Sunday                   173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Rome
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -120,5 +79,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alessandrozito98/alessandrozito98/master/assets/bar_graph.png)
 
 
- Last Updated on 15/02/2025 01:00:58 UTC
+ Last Updated on 16/02/2025 01:06:50 UTC
 <!--END_SECTION:waka-->
