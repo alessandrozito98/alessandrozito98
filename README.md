@@ -48,8 +48,6 @@ I'm a MSc student in Telecommunication Engineering at Politecnico di Milano
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%2035%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -64,46 +62,6 @@ I'm a MSc student in Telecommunication Engineering at Politecnico di Milano
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-🌆 Daytime                479 commits         █████████░░░░░░░░░░░░░░░░   37.16 % 
-🌃 Evening                375 commits         ███████░░░░░░░░░░░░░░░░░░   29.09 % 
-🌙 Night                  289 commits         ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   194 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Tuesday                  181 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Wednesday                219 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Thursday                 333 commits         ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
-Friday                   119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-Saturday                 71 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-Sunday                   172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Rome
-
-💬 Programming Languages: 
-Python                   19 mins             █████████████████████████   99.47 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-
-🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-thesis-script            19 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      19 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -121,5 +79,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alessandrozito98/alessandrozito98/master/assets/bar_graph.png)
 
 
- Last Updated on 27/03/2025 01:06:03 UTC
+ Last Updated on 28/03/2025 01:06:21 UTC
 <!--END_SECTION:waka-->
