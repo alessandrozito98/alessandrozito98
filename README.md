@@ -56,7 +56,7 @@ I'm a MSc student in Telecommunication Engineering at Politecnico di Milano
 
 > 📦 741.0 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 3 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -122,5 +122,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alessandrozito98/alessandrozito98/master/assets/bar_graph.png)
 
 
- Last Updated on 04/04/2025 01:06:18 UTC
+ Last Updated on 05/04/2025 01:05:34 UTC
 <!--END_SECTION:waka-->
