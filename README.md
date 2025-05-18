@@ -50,13 +50,11 @@ I'm a MSc student in Telecommunication Engineering at Politecnico di Milano
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 741.0 kB Used in GitHub's Storage 
- > 
-> 🏆 6 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -120,5 +118,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alessandrozito98/alessandrozito98/master/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2025 01:10:09 UTC
+ Last Updated on 18/05/2025 01:16:05 UTC
 <!--END_SECTION:waka-->
