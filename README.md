@@ -48,13 +48,15 @@ I'm a MSc student in Telecommunication Engineering at Politecnico di Milano
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 741.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 6 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,16 +91,20 @@ Sunday                   172 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     2 mins              ██████████░░░░░░░░░░░░░░░   38.69 % 
+Typst                    1 min               ███████░░░░░░░░░░░░░░░░░░   28.21 % 
+Other                    1 min               ███████░░░░░░░░░░░░░░░░░░   26.17 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+cv                       6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      6 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -118,5 +124,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alessandrozito98/alessandrozito98/master/assets/bar_graph.png)
 
 
- Last Updated on 16/07/2025 01:17:23 UTC
+ Last Updated on 17/07/2025 01:18:26 UTC
 <!--END_SECTION:waka-->
