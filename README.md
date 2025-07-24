@@ -56,6 +56,8 @@ I'm a MSc student in Telecommunication Engineering at Politecnico di Milano
 
 > 📦 741.0 kB Used in GitHub's Storage 
  > 
+> 🏆 6 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 16 Public Repositories 
@@ -89,20 +91,16 @@ Sunday                   172 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-YAML                     2 mins              ██████████░░░░░░░░░░░░░░░   38.69 % 
-Typst                    1 min               ███████░░░░░░░░░░░░░░░░░░   28.21 % 
-Other                    1 min               ███████░░░░░░░░░░░░░░░░░░   26.17 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-cv                       6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -122,5 +120,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alessandrozito98/alessandrozito98/master/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2025 01:19:09 UTC
+ Last Updated on 24/07/2025 01:18:26 UTC
 <!--END_SECTION:waka-->
