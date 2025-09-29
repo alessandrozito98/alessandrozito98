@@ -48,6 +48,8 @@ I'm a MSc student in Telecommunication Engineering at Politecnico di Milano
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2029%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
@@ -62,14 +64,53 @@ I'm a MSc student in Telecommunication Engineering at Politecnico di Milano
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+🌆 Daytime                476 commits         █████████░░░░░░░░░░░░░░░░   36.99 % 
+🌃 Evening                375 commits         ███████░░░░░░░░░░░░░░░░░░   29.14 % 
+🌙 Night                  287 commits         ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   192 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Tuesday                  181 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Wednesday                219 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Thursday                 333 commits         ██████░░░░░░░░░░░░░░░░░░░   25.87 % 
+Friday                   119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+Saturday                 71 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Sunday                   172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Python                   5 repos             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-Jupyter Notebook         4 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-MATLAB                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Python                   5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+Jupyter Notebook         4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+MATLAB                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
 
@@ -79,5 +120,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alessandrozito98/alessandrozito98/master/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2025 01:13:12 UTC
+ Last Updated on 29/09/2025 01:08:12 UTC
 <!--END_SECTION:waka-->
