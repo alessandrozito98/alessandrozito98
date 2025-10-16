@@ -48,8 +48,6 @@ I'm a MSc student in Telecommunication Engineering at Politecnico di Milano
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-162%20hrs%2014%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -64,47 +62,6 @@ I'm a MSc student in Telecommunication Engineering at Politecnico di Milano
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-🌆 Daytime                478 commits         █████████░░░░░░░░░░░░░░░░   36.80 % 
-🌃 Evening                382 commits         ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-🌙 Night                  290 commits         ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   192 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Tuesday                  184 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-Wednesday                219 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Thursday                 333 commits         ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
-Friday                   119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Saturday                 71 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-Sunday                   181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Rome
-
-💬 Programming Languages: 
-Markdown                 4 mins              ████████████████████████░   94.27 % 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-RPMSpec                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-
-🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-top20-fimi-downloader    4 mins              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -122,5 +79,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alessandrozito98/alessandrozito98/master/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2025 01:08:15 UTC
+ Last Updated on 16/10/2025 01:08:01 UTC
 <!--END_SECTION:waka-->
