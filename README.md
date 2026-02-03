@@ -48,6 +48,8 @@ I'm a MSc student in Telecommunication Engineering at Politecnico di Milano
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-169%20hrs%2039%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -62,6 +64,45 @@ I'm a MSc student in Telecommunication Engineering at Politecnico di Milano
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                149 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+🌆 Daytime                478 commits         █████████░░░░░░░░░░░░░░░░   36.80 % 
+🌃 Evening                382 commits         ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+🌙 Night                  290 commits         ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   192 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Tuesday                  184 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Wednesday                219 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Thursday                 333 commits         ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+Friday                   119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Saturday                 71 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Sunday                   181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -79,5 +120,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alessandrozito98/alessandrozito98/master/assets/bar_graph.png)
 
 
- Last Updated on 02/02/2026 01:47:08 UTC
+ Last Updated on 03/02/2026 01:45:59 UTC
 <!--END_SECTION:waka-->
